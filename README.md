@@ -94,18 +94,27 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
----
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hansinibhavsar1715&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hansinibhavsar1715&theme=flat&no-bg=true&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest,Issues&column=6&margin-w=12&margin-h=12"
+    width="100%"
+    alt="GitHub Achievements"
+  />
 </p>
 
----
+<p align="center">
+  <i>Building consistently. Learning continuously. Growing one contribution at a time.</i>
+</p>
 
 ## 🚀 Featured Projects
 
