@@ -1,18 +1,327 @@
-# 💫 About Me:
-### <br><br>I'm an aspiring **Data Analyst** and **Python Developer** passionate about turning raw data into meaningful insights. As a fresher, I bring a strong foundation in **Python, SQL, and data visualization**, along with a genuine curiosity for solving real-world problems through data.<br><br>- 🔭 Currently sharpening my skills in **data analysis, Pandas, NumPy, and visualization tools**<br>- 🌱 Learning **advanced SQL, Power BI/Tableau, and Machine Learning fundamentals**<br>- 💡 Passionate about **clean code, data storytelling, and continuous learning**<br>- 🎯 Actively seeking opportunities to apply my skills in a **Data Analyst / Python Developer** role<br>### 🛠️ Tech Stack<br><br>**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>**Libraries:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)<br>**Visualization:** ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)<br>**Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)<br>- 📫 Let's connect — always open to collaboration and new opportunities!
+<h1 align="center">Hi 👋, I'm Hansini Bhavsar</h1>
 
+<p align="center">
+  <strong>Aspiring Data Analyst | Python Developer | Data Enthusiast</strong>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hansini-bhavsar-a07111253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansinibhavsar@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+Developer;Turning+Raw+Data+into+Insights;Building+Real-World+Data+Projects;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hansinibhavsar1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hansinibhavsar1715&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hansinibhavsar1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/hansinibhavsar1715">
+    <img src="https://img.shields.io/badge/GitHub-hansinibhavsar1715-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hansini-bhavsar-a07111253">
+    <img src="https://img.shields.io/badge/LinkedIn-Hansini%20Bhavsar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hansinibhavsar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hansinibhavsar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hansinibhavsar1715&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm an **Aspiring Data Analyst and Python Developer** passionate about transforming raw data into meaningful insights and practical solutions.
+
+As a fresher, I'm building my foundation across **Python, SQL, data analysis, visualization, databases, and machine learning** by working on hands-on projects and continuously improving my problem-solving skills.
+
+* 🔭 Currently building projects around **Data Analysis & Python**
+* 📊 Working with **Pandas, NumPy, Seaborn, Matplotlib & Plotly**
+* 🗄️ Strengthening my **SQL & database** skills
+* 📈 Exploring **Power BI, Streamlit & interactive dashboards**
+* 🤖 Learning **Machine Learning fundamentals**
+* 🧹 Interested in **data cleaning, EDA, validation & data storytelling**
+* 🚀 Focused on building projects using **real-world datasets**
+* 🎯 Looking for opportunities as a **Data Analyst / Python Developer**
+* 💡 Believe in learning by **building, analyzing and improving**
+
+---
+
+## 🧠 What I Work With
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🐍 Programming & Data
+
+* Python
+* C++
+* Pandas
+* NumPy
+* SciPy
+* Scikit-learn
+* OpenCV
+
+</td>
+
+<td valign="top" width="50%">
+
+### 📊 Analytics & Visualization
+
+* SQL
+* Power BI
+* Matplotlib
+* Seaborn
+* Plotly
+* Streamlit
+* Exploratory Data Analysis
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+* SQLite
+* MongoDB
+* Microsoft SQL Server
+* Snowflake
+
+</td>
+
+<td valign="top">
+
+### 🛠️ Tools & Platforms
+
+* Git
+* GitHub
+* GitHub Actions
+* Postman
+* Anaconda
+* AWS
+* Google Cloud
+* Figma
+* Canva
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,sqlite,mongodb,aws,gcp,git,github,githubactions,postman,powershell,anaconda&perline=7" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hansinibhavsar1715&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Hansini's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansinibhavsar1715&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hansinibhavsar1715&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hansinibhavsar1715&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Diagnosis using ML & Data Mining
+
+Machine Learning project focused on analyzing health-related data and exploring predictive patterns using data mining and machine learning techniques.
+
+**Focus:** Data Analysis • Machine Learning • Python • Data Mining
+
+<p>
+  <a href="https://github.com/hansinibhavsar1715/Heart_Disease_Diagnosis_Using_ML_and_Data_Mining_Main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Heart_Disease_Diagnosis_Using_ML_and_Data_Mining_Main&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🏏 Cricket Performance & Player Insights Dashboard
+
+Interactive Power BI dashboard designed to analyze cricket performance, player statistics, team performance and match trends.
+
+**Focus:** Power BI • Data Visualization • Dashboarding • Data Analysis
+
+<p>
+  <a href="https://github.com/hansinibhavsar1715/Cricket_Performance_and_Player_Insights_Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Cricket_Performance_and_Player_Insights_Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 Seaborn Data Visualization
+
+A collection of visualization experiments and plots created while exploring statistical data visualization with Python and Seaborn.
+
+**Focus:** Python • Seaborn • Data Visualization • EDA
+
+<p>
+  <a href="https://github.com/hansinibhavsar1715/Seaborn-plots">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Seaborn-plots&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🧩 Sorting Techniques in Python
+
+Implementations of major sorting algorithms designed to strengthen algorithmic thinking, Python fundamentals and problem-solving skills.
+
+**Focus:** Python • Algorithms • Problem Solving
+
+<p>
+  <a href="https://github.com/hansinibhavsar1715/Sorting_Techniques_in_python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Sorting_Techniques_in_python&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📂 More Projects
+
+<p align="center">
+
+<a href="https://github.com/hansinibhavsar1715?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>More projects are continuously being added as I learn, experiment and build.</i>
+</p>
+
+---
+
+## 🎯 Current Learning Roadmap
+
+```text
+                    DATA ANALYTICS
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+        Python           SQL         Power BI
+          │              │              │
+          ▼              ▼              ▼
+     Data Cleaning   Querying       Dashboards
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                  Exploratory Analysis
+                         │
+                         ▼
+                   Data Storytelling
+                         │
+                         ▼
+                Machine Learning
+                         │
+                         ▼
+              Real-World Projects
+```
+
+---
+
+## 📌 What I Want to Build
+
+I'm particularly interested in projects involving:
+
+* 📊 Real-world data analysis
+* 🔎 Exploratory Data Analysis
+* 🧹 Data cleaning & validation
+* 🗄️ SQL-based analytics
+* 📈 Business intelligence dashboards
+* 🔮 Forecasting & predictive analytics
+* 🤖 Machine Learning
+* ⚙️ API-based data collection
+* 🔄 Automated data pipelines
+* 🌐 Streamlit data applications
+
+---
+
+## 📚 My Development Philosophy
+
+> **Learn → Build → Analyze → Improve → Repeat**
+
+I believe the best way to learn technology is not only to study concepts, but to use them to solve real problems.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hansini-bhavsar-a07111253">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hansinibhavsar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hansinibhavsar1715">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansinibhavsar1715&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Turning data into insights, one project at a time.</i>
+</p>
