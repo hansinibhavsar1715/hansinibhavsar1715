@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hansini Bhavsar</h1>
+<h1 align="center">Hi there, I'm Hansini Bhavsar 👋</h1>
 
 <p align="center">
   <strong>Aspiring Data Analyst | Python Developer | Data Enthusiast</strong>
@@ -12,11 +12,11 @@
   <a href="https://github.com/hansinibhavsar1715">
     <img src="https://img.shields.io/badge/GitHub-hansinibhavsar1715-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/hansini-bhavsar-a07111253">
-    <img src="https://img.shields.io/badge/LinkedIn-Hansini%20Bhavsar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/hansini-bhavsar-a07111253">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hansinibhavsar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hansinibhavsar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -24,109 +24,57 @@
 
 ## 💫 About Me
 
-I'm an **Aspiring Data Analyst and Python Developer** passionate about transforming raw data into meaningful insights and practical solutions.
-
-As a fresher, I'm building my foundation across **Python, SQL, data analysis, visualization, databases, and machine learning** by working on hands-on projects and continuously improving my problem-solving skills.
-
-* 🔭 Currently building projects around **Data Analysis & Python**
-* 📊 Working with **Pandas, NumPy, Seaborn, Matplotlib & Plotly**
-* 🗄️ Strengthening my **SQL & database** skills
-* 📈 Exploring **Power BI, Streamlit & interactive dashboards**
-* 🤖 Learning **Machine Learning fundamentals**
-* 🧹 Interested in **data cleaning, EDA, validation & data storytelling**
-* 🚀 Focused on building projects using **real-world datasets**
-* 🎯 Looking for opportunities as a **Data Analyst / Python Developer**
-* 💡 Believe in learning by **building, analyzing and improving**
-
----
-
-## 🧠 What I Work With
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🐍 Programming & Data
-
-* Python
-* C++
-* Pandas
-* NumPy
-* SciPy
-* Scikit-learn
-* OpenCV
-
-</td>
-
-<td valign="top" width="50%">
-
-### 📊 Analytics & Visualization
-
-* SQL
-* Power BI
-* Matplotlib
-* Seaborn
-* Plotly
-* Streamlit
-* Exploratory Data Analysis
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🗄️ Databases
-
-* MySQL
-* PostgreSQL
-* SQLite
-* MongoDB
-* Microsoft SQL Server
-* Snowflake
-
-</td>
-
-<td valign="top">
-
-### 🛠️ Tools & Platforms
-
-* Git
-* GitHub
-* GitHub Actions
-* Postman
-* Anaconda
-* AWS
-* Google Cloud
-* Figma
-* Canva
-
-</td>
-</tr>
-</table>
+* 🔭 Currently sharpening my skills in **Data Analysis, Python, Pandas, NumPy & Data Visualization**
+* 🌱 Learning **Advanced SQL, Power BI, Streamlit & Machine Learning fundamentals**
+* 📊 Interested in **EDA, data cleaning, validation, dashboards & data storytelling**
+* ⚙️ Exploring **API-based data collection and automation**
+* 💡 Passionate about turning **raw data into meaningful insights**
+* 🎯 Actively seeking opportunities as a **Data Analyst / Python Developer**
+* 📫 Reach me at **[hansinibhavsar@gmail.com](mailto:hansinibhavsar@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,sqlite,mongodb,aws,gcp,git,github,githubactions,postman,powershell,anaconda&perline=7" />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
-</p>
+### 📊 Data & Machine Learning
 
-<p align="center">
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge\&logo=opencv\&logoColor=black)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+### 📈 Visualization & BI
 
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
 
 ---
 
@@ -137,10 +85,6 @@ As a fresher, I'm building my foundation across **Python, SQL, data analysis, vi
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansinibhavsar1715&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hansinibhavsar1715&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
@@ -150,7 +94,7 @@ As a fresher, I'm building my foundation across **Python, SQL, data analysis, vi
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -165,128 +109,161 @@ As a fresher, I'm building my foundation across **Python, SQL, data analysis, vi
 
 ## 🚀 Featured Projects
 
-### ❤️ Heart Disease Diagnosis using ML & Data Mining
+<table>
+<tr>
+<td width="50%">
 
-Machine Learning project focused on analyzing health-related data and exploring predictive patterns using data mining and machine learning techniques.
+### ❤️ Heart Disease Diagnosis
 
-**Focus:** Data Analysis • Machine Learning • Python • Data Mining
+Machine Learning and Data Mining project focused on analyzing data and exploring predictive patterns.
 
-<p>
-  <a href="https://github.com/hansinibhavsar1715/Heart_Disease_Diagnosis_Using_ML_and_Data_Mining_Main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Heart_Disease_Diagnosis_Using_ML_and_Data_Mining_Main&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**Python • Pandas • ML • Data Mining**
 
----
-
-### 🏏 Cricket Performance & Player Insights Dashboard
-
-Interactive Power BI dashboard designed to analyze cricket performance, player statistics, team performance and match trends.
-
-**Focus:** Power BI • Data Visualization • Dashboarding • Data Analysis
-
-<p>
-  <a href="https://github.com/hansinibhavsar1715/Cricket_Performance_and_Player_Insights_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Cricket_Performance_and_Player_Insights_Dashboard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📊 Seaborn Data Visualization
-
-A collection of visualization experiments and plots created while exploring statistical data visualization with Python and Seaborn.
-
-**Focus:** Python • Seaborn • Data Visualization • EDA
-
-<p>
-  <a href="https://github.com/hansinibhavsar1715/Seaborn-plots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Seaborn-plots&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🧩 Sorting Techniques in Python
-
-Implementations of major sorting algorithms designed to strengthen algorithmic thinking, Python fundamentals and problem-solving skills.
-
-**Focus:** Python • Algorithms • Problem Solving
-
-<p>
-  <a href="https://github.com/hansinibhavsar1715/Sorting_Techniques_in_python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansinibhavsar1715&repo=Sorting_Techniques_in_python&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📂 More Projects
-
-<p align="center">
-
-<a href="https://github.com/hansinibhavsar1715?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/hansinibhavsar1715/Heart_Disease_Diagnosis_Using_ML_and_Data_Mining_Main">
+View Repository →
 </a>
 
-</p>
+</td>
+
+<td width="50%">
+
+### 🏏 Cricket Performance Dashboard
+
+Interactive dashboard focused on cricket performance, player statistics and data-driven insights.
+
+**Power BI • Data Visualization • Analytics**
+
+<a href="https://github.com/hansinibhavsar1715/Cricket_Performance_and_Player_Insights_Dashboard">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Seaborn Visualizations
+
+A collection of Python-based statistical visualizations created while exploring data visualization and EDA.
+
+**Python • Seaborn • Visualization**
+
+<a href="https://github.com/hansinibhavsar1715/Seaborn-plots">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧩 Sorting Techniques
+
+Python implementations of sorting algorithms designed to strengthen algorithmic thinking and problem-solving.
+
+**Python • Algorithms • Problem Solving**
+
+<a href="https://github.com/hansinibhavsar1715/Sorting_Techniques_in_python">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <i>More projects are continuously being added as I learn, experiment and build.</i>
+  <a href="https://github.com/hansinibhavsar1715?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 🎯 Data Analyst Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data_Cleaning-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dashboards-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Visualization-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Forecasting-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Data-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-2196F3?style=flat-square"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hansinibhavsar1715/hansinibhavsar1715/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hansinibhavsar1715/hansinibhavsar1715/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hansinibhavsar1715/hansinibhavsar1715/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 📚 Currently Learning
 
 ```text
-                    DATA ANALYTICS
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-        Python           SQL         Power BI
-          │              │              │
-          ▼              ▼              ▼
-     Data Cleaning   Querying       Dashboards
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                  Exploratory Analysis
-                         │
-                         ▼
-                   Data Storytelling
-                         │
-                         ▼
-                Machine Learning
-                         │
-                         ▼
-              Real-World Projects
+Python
+  ├── Data Analysis
+  ├── Pandas / NumPy
+  ├── Data Visualization
+  └── Automation
+
+SQL
+  ├── Joins
+  ├── Subqueries
+  ├── Window Functions
+  └── Advanced Analytics
+
+BI & Applications
+  ├── Power BI
+  ├── Streamlit
+  └── Interactive Dashboards
+
+Machine Learning
+  ├── Feature Engineering
+  ├── Model Evaluation
+  └── Predictive Analytics
 ```
 
 ---
 
-## 📌 What I Want to Build
+## 💡 What I Like Building
 
-I'm particularly interested in projects involving:
-
-* 📊 Real-world data analysis
-* 🔎 Exploratory Data Analysis
-* 🧹 Data cleaning & validation
-* 🗄️ SQL-based analytics
-* 📈 Business intelligence dashboards
-* 🔮 Forecasting & predictive analytics
-* 🤖 Machine Learning
-* ⚙️ API-based data collection
-* 🔄 Automated data pipelines
-* 🌐 Streamlit data applications
+* 📊 Data analysis projects using real-world datasets
+* 🔎 Exploratory Data Analysis and data storytelling
+* 🗄️ SQL analytics and database-driven projects
+* 📈 Interactive Power BI dashboards
+* 🌐 Streamlit applications
+* 🔌 API-based data collection
+* ⚙️ Automated data workflows
+* 🔮 Forecasting and predictive analytics
+* 🤖 Practical Machine Learning projects
 
 ---
 
-## 📚 My Development Philosophy
+## 📌 My Development Philosophy
 
 > **Learn → Build → Analyze → Improve → Repeat**
 
-I believe the best way to learn technology is not only to study concepts, but to use them to solve real problems.
+I believe the best way to learn technology is by building projects, working with real data and continuously improving the solution.
 
 ---
 
@@ -294,7 +271,7 @@ I believe the best way to learn technology is not only to study concepts, but to
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/hansini-bhavsar-a07111253">
+<a href="https://linkedin.com/in/hansini-bhavsar-a07111253">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -310,18 +287,14 @@ I believe the best way to learn technology is not only to study concepts, but to
 
 ---
 
-## 👀 Profile Visitors
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hansinibhavsar1715&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
-
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <i>Thanks for stopping by! 🚀</i>
 </p>
 
 <p align="center">
-  <i>Turning data into insights, one project at a time.</i>
+  <strong>Turning data into insights, one project at a time.</strong>
 </p>
