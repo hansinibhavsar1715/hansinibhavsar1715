@@ -106,7 +106,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=hansinibhavsar1715&theme=flat&no-bg=true&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest,Issues&column=6&margin-w=12&margin-h=12"
+    src="./profile/trophy.svg"
     width="100%"
     alt="GitHub Achievements"
   />
@@ -115,7 +115,6 @@
 <p align="center">
   <i>Building consistently. Learning continuously. Growing one contribution at a time.</i>
 </p>
-
 ## 🚀 Featured Projects
 
 <table>
