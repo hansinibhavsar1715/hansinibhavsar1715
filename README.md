@@ -94,11 +94,19 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+
+  <a href="https://github.com/hansinibhavsar1715">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hansinibhavsar1715&theme=github-compact&hide_border=true&area=true&radius=10&height=300&days=31&custom_title=My%20GitHub%20Contribution%20Activity"
+      width="100%"
+      alt="Hansini Bhavsar GitHub Contribution Activity"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <i>Learning • Building • Contributing • Growing</i>
 </p>
 
 
